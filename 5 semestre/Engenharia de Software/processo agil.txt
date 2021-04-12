@@ -1,0 +1,29 @@
+metodo agil
+surgiu na decada de 90 devido a insatisfação dos desenvolvedores com abordagens muito pesadas e demoradas;
+baseia-se no metodo incrmental para especificação, desenvolvimento e entregas;
+Adequados para softwares que o resquisito de sistema mudam rapidamente durante o desenvolvimento;
+entrega rapida aos clientes q em seguida propoem alterações e novos requisitos;
+objetivo de reduzir burocracia e documentação.
+
+cliente deve participar ativamente no processo de desenvolvimento(fornecer e priorizar requisitos e acaliar interações);
+desenvolvido em incremntos junto ao cliente;
+sem processos prescristivos - cada um com a propria maneira de trabalhar;
+deve acomodar mudança nos requisitos;
+elimina complexidades do sistema.
+
+principalmente usados em:
+produtos pequenos e medios;
+cliente deve se envolver no processo de desenvolvimento.
+
+dificuldades:
+dificuldades com o envolvimento do cliente;
+pessoas que nao interagem com a equipe;
+ter que priorizar mudanças;
+manter simples;
+exige grande nivel de organização.
+
+pontos positivos
+sem burocracia;
+facil em acomodar mudanças;
+primeira versao disponibilizada rapidamente (continua de acordo com o interesse do cliente);
+constante geração de valor para o cliente;

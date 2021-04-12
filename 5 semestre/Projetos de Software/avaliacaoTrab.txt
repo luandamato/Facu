@@ -1,0 +1,10 @@
+Gianlucca Lapate e Gustavo Fonseca
+
+- Não tem seta indicando nada
+- e se é derivação do comprador, ele possui os mesmos acessos
+- não descreve o que o sistema é e apresenta um fluxo unico de checkout (mas não demonstra como ele chega até o checkout)
+
+
+documentacao
+- Eles não descrevem os casos de uso separadamente, o fizeram a partir de um único documento contendo linhas que não foram solicitadas, sendo assim não sabemos do que se trata, como "Complexidade" e "Identificação"
+- a documentaçao descreve um projeto que não existe nos diagramas

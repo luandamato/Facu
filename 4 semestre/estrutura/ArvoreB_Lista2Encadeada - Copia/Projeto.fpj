@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+	<Libs Value=""/>
+	<Flags Value=""/>
+	<Target Value="Projeto.exe"/>
+	<CommandLine Value=""/>
+	<CompilerOptions Value="-Wall -s"/>
+	<DeleteObjectsBefore Value="Yes"/>
+	<DeleteObjectsAfter Value="Yes"/>
+	<DeleteMakefileAfter Value="Yes"/>
+	<DeleteResourcesAfter Value="Yes"/>
+	<EnableTheme Value="No"/>
+	<RequiresAdmin Value="No"/>
+	<CompilerType Value="CPP"/>
+	<AppType Value="CONSOLE"/>
+	<Files>
+		<File Name="main.cpp"/>
+		<File Name="lista2.h"/>
+		<File Name="lista2.cpp"/>
+		<File Name="elemento2.h"/>
+		<File Name="elemento2.cpp"/>
+		<File Name="arvoreb_no.h"/>
+		<File Name="arvoreb_no.cpp"/>
+		<File Name="arvoreb.h"/>
+		<File Name="arvoreb.cpp"/>
+	</Files>
+</Project>

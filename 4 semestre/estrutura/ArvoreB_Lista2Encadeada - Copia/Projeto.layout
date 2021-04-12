@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.cpp" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="63" Column="33"/>
+		</File>
+		<File Name="lista2.h" Top="No" Tabpos="2" TopLine="13">
+			<Cursor Line="27" Column="14"/>
+		</File>
+		<File Name="lista2.cpp" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="65" Column="1"/>
+		</File>
+		<File Name="elemento2.h" Top="No" Tabpos="4" TopLine="1">
+			<Cursor Line="14" Column="23"/>
+		</File>
+		<File Name="elemento2.cpp" Top="No" Tabpos="5" TopLine="1">
+			<Cursor Line="11" Column="1"/>
+		</File>
+		<File Name="arvoreb_no.h" Top="No" Tabpos="6" TopLine="19">
+			<Cursor Line="28" Column="27"/>
+		</File>
+		<File Name="arvoreb_no.cpp" Top="No" Tabpos="7" TopLine="1">
+			<Cursor Line="7" Column="42"/>
+		</File>
+		<File Name="arvoreb.h" Top="No" Tabpos="8" TopLine="1">
+			<Cursor Line="50" Column="10"/>
+		</File>
+		<File Name="arvoreb.cpp" Top="Yes" Tabpos="9" TopLine="16">
+			<Cursor Line="40" Column="46"/>
+		</File>
+	</Files>
+</Layout>

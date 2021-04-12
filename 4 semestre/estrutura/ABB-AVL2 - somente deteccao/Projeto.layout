@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.cpp" Top="Yes" Tabpos="1" TopLine="1">
+			<Cursor Line="21" Column="78"/>
+		</File>
+		<File Name="arvore.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="16" Column="14"/>
+		</File>
+		<File Name="arvore.cpp" Top="No" Tabpos="3" TopLine="34">
+			<Cursor Line="58" Column="3"/>
+		</File>
+		<File Name="no.h" Top="No" Tabpos="4" TopLine="1">
+			<Cursor Line="22" Column="25"/>
+		</File>
+		<File Name="no.cpp" Top="No" Tabpos="5" TopLine="19">
+			<Cursor Line="46" Column="9"/>
+		</File>
+	</Files>
+</Layout>

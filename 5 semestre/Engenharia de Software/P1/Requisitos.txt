@@ -1,0 +1,18 @@
+● Requisitos funcionais são declarações de serviços que o sistema deve
+fornecer, de como deve reagir a entradas específicas e de como deve se
+comportar.
+● Requisitos funcionais
+ - O Funcionário pode se candidatar, para isso será necessário que ele se cadastre;
+ - Todos os funcionários podem votar, mesmo sem estar cadastrado;
+ - Membros da CE podem solicitar o relatorio dos resultados da eleição.
+
+
+● Requisitos não funcionais são restrições aos serviços ou funções
+oferecidos pelo sistema. Ex. restrições de timing, processo de
+desenvolvimento e normas. 
+
+● Requisitos não funcionais
+ - O sistema so aceita novos votos se estiver dentro do horario permitido
+ - Deve ter um tempo de resposta máximo de 5 segundos
+ - Deve ser desenvolvido somente para Windows
+ - Voto é anônimo. O sistema não salva em qual candidato o funcionário votou

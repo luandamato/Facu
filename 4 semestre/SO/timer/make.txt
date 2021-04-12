@@ -1,0 +1,6 @@
+# make
+    compile  time/time.o
+       link  time/time
+# make install
+    install  /service/time
+    install  /etc/system.conf.d/time

@@ -1,0 +1,1 @@
+({S}, {a,b}, {S->Raa, R->aR, R->bR, R->e}, S}

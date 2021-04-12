@@ -1,0 +1,2 @@
+language = "bash"
+run = "gcc mini-analex2.c -o mini2 ; ./mini2"

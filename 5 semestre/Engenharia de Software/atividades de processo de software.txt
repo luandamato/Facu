@@ -1,0 +1,17 @@
+1 - Definição de objetivos: onde são definidos os objetivos para essa fase do projeto, identificando as restrições e 
+preparando um plano de gerenciamento detalhado que inclui todos os possíveis riscos do projeto;
+
+2 - Avaliação e redução de riscos: para cada risco identificado é feita uma “Análise de Risco” detalhada com o objetivo 
+de identificar estratégias para reduzi-lo ou evitá-lo. Por exemplo, caso exista uma dificuldade em especificar claramente 
+um requisito, isso significa que existe um “risco de requisitos inadequados” e para amenizá-lo será preciso desenvolver 
+um protótipo para apresentar ao cliente a fim de colher sugestões para refinar os requisitos. 
+(Um protótipo é uma simulação do sistema, podendo ser desenhado em papel ou programado de forma simples e 
+não funcional para que o cliente tenha uma ideia melhor do que o engenheiro entendeu de seus requisitos. 
+Mais informações sobre prototipagem será fornecida em um artigo exclusivo sobre Interface Humano-Computador);
+
+3 - Implementação e validação: com as estratégias definidas, é escolhido um modelo de desenvolvimento, como por exemplo, 
+o “Modelo em Cascata”, “Modelo Incremental”, etc. Pode-se utilizar modelos diferentes em cada volta de implementação, 
+conforme a necessidade;
+
+4 - Planejamento e Especificação: o projeto todo é analisado para verificar o que foi realizado e planejar quais serão os
+ próximos passos para iniciar novas voltas do espiral ou concluir o sistema.
